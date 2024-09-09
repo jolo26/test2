@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: robotframework-srphautomationlibrary
+Version: 0.1
+Summary: Automation Library for Robot Framework
+Home-page: https://github.sec.samsung.net/SRPH/robotframework-srphautomationlibrary
+Author: Test Automation Part
+Author-email: #
+License: Apache License 3.0
+Keywords: robot framework testing automation selenium seleniumlibrary
+Platform: any
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Software Development :: Testing
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Software Development :: Testing
+Classifier: Framework :: Robot Framework
+Classifier: Framework :: Robot Framework :: Library
+Description-Content-Type: text/markdown
+Requires-Dist: webdriver-manager==4.0.1
+Requires-Dist: robotframework==7.0
+Requires-Dist: selenium==4.14.0
+Requires-Dist: robotframework-seleniumlibrary==6.1.1
+Requires-Dist: robotframework-screencaplibrary==1.6.0
+Requires-Dist: visual-regression-tracker==4.9.0
+Requires-Dist: multipledispatch==1.0.0
+Requires-Dist: robotframework-jsonlibrary>=0.5
+Requires-Dist: robotframework-requests==0.9.5
+Requires-Dist: robotframework-retryfailed==0.2.0
+
+A library containing all reusable keywords and useful libraries for Robot Framework

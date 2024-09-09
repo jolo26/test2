@@ -1,0 +1,12 @@
+webdriver-manager==4.0.1
+robotframework==7.0
+selenium==4.14.0
+robotframework-seleniumlibrary==6.1.1
+robotframework-screencaplibrary==1.6.0
+visual-regression-tracker==4.9.0
+multipledispatch==1.0.0
+robotframework-jsonlibrary>=0.5
+robotframework-requests==0.9.5
+robotframework-retryfailed==0.2.0
+robotframework-browser>=18.5.1
+wheel==0.43.0
