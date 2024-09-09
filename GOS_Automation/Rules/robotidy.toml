@@ -1,0 +1,46 @@
+[tool.robotidy]
+diff = true
+overwrite = true
+spacecount = 2
+indent = 4
+skip_gitignore = true
+ignore_git_dir = true
+#startline = 10
+#endline = 20
+#continuation-indent = 4
+transform = [
+    "AddMissingEnd",
+    "DiscardEmptySections:enabled=True",
+    "MergeAndOrderSections:enabled=True",
+    "RemoveEmptySettings",
+    "NormalizeAssignments",
+    "OrderSettings",
+    "OrderSettingsSection",
+    "NormalizeTags",
+    "RenameVariables",
+    "IndentNestedKeywords:indent_and=keep_in_line",
+    "AlignSettingsSection",
+    "AlignVariablesSection",
+    "AlignTemplatedTestCases",
+    "NormalizeNewLines",
+    "NormalizeSectionHeaderName",
+    "NormalizeSettingName",
+    "ReplaceRunKeywordIf",
+    "SplitTooLongLine",
+    "RenameKeywords",
+    "ReplaceReturns",
+    "ReplaceBreakContinue",
+    "InlineIf",
+    "NormalizeComments",
+    "AlignSettingsSection:argument_indent=0",
+    "DiscardEmptySections:allow_only_comments=False",
+    "MergeAndOrderSections:order=settings,variables,testcases,keywords,comments",
+    "NormalizeSectionHeaderName:uppercase=True"
+]
+#configure = [
+#
+#]
+src = [
+    "path/to/file",
+    "directory"
+]

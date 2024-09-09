@@ -1,0 +1,38 @@
+# this config file includes all rules that are suggested to be applied and only excludes the following:  
+--exclude *doc*
+--exclude bdd-without-keyword-call
+--exclude too-few-calls-in-keyword
+--exclude too-many-calls-in-keyword
+--exclude too-long-test-case
+--exclude too-many-calls-in-test-case
+--exclude file-too-long
+--exclude too-many-arguments
+--exclude number-of-returned-values
+--exclude too-many-test-cases
+--exclude too-few-calls-in-test-case
+--exclude arguments-per-line
+--exclude unnecessary-default-tags
+--exclude tag-already-set-in-keyword-tags
+--exclude could-be-keyword-tags
+--exclude bom-encoding-in-file
+--exclude duplicated-metadata
+--exclude both-tests-and-tasks
+--exclude empty-variable
+--exclude missing-trailing-blank-line
+
+# the following rules are configured and also applied. Their default configurations are overwritten by the following: 
+--configure too-long-keyword:severity_threshold:error=80
+--configure todo-in-comment:markers:todo,refactor,remove,fix
+--configure line-too-long:line_length:124
+
+# this option saves the previous result in cache directory
+--persistent
+
+# this sets the format for displaying violations in the report
+--format [{severity}] {rule_id} ({name}) {source}:{line}:{col} {desc}
+
+# the following config shows all reports list including timestamp and comparison from previous report found in cache directory 
+--reports all,timestamp,compare_runs
+
+# this sets the name of the log
+--output all_rules.log

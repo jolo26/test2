@@ -1,0 +1,31 @@
+# this config file includes following rules that are suggested to be applied regarding spaces:
+--include trailing-whitespace
+--include empty-lines-between-sections
+--include empty-lines-between-test-cases
+--include empty-lines-between-keywords
+--include mixed-tabs-and-spaces
+--include bad-indent
+--include empty-line-after-section
+--include too-many-trailing-blank-lines
+--include misaligned-continuation
+--include consecutive-empty-lines
+--include empty-lines-in-statement
+--include variable-should-be-left-aligned
+--include misaligned-continuation-row
+--include suite-setting-should-be-left-aligned
+--include bad-block-indent
+
+# the following rule is configured and also applied. Its default configurations are overwritten by the following: 
+--configure empty-lines-between-sections:empty_lines:1
+
+# this sets the format for displaying violations in the report
+--format [{severity}] {rule_id} ({name}) {source}:{line}:{col} {desc}
+
+# this option saves the previous result in cache directory
+--persistent
+
+# the following config shows all reports list including timestamp and comparison from previous report found in cache directory 
+--reports all,timestamp,compare_runs
+
+# this sets the name of the log
+--output spacing_rules_robocop.log

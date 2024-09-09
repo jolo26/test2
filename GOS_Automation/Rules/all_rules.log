@@ -1,0 +1,144 @@
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Device_Manager_Tests.robot:10:18 Keyword name 'Login user' does not follow case convention
+[W] 1003 (empty-lines-between-sections) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Device_Manager_Tests.robot:11:1 Invalid number of empty lines between sections (1/2)
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Device_Manager_Tests.robot:14:5 Keyword name 'Navigate to Module' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Device_Manager_Tests.robot:18:5 Keyword name 'Search Device using search field' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Device_Manager_Tests.robot:20:5 Keyword name 'Verify Search Field in Result Table' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Device_Manager_Tests.robot:23:5 Keyword name 'Search Device using search field' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Device_Manager_Tests.robot:25:5 Keyword name 'Verify Search Field in Result Table' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Device_Manager_Tests.robot:28:5 Keyword name 'Search Device using search field' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Device_Manager_Tests.robot:30:5 Keyword name 'Verify Search Field in Result Table' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Device_Manager_Tests.robot:33:5 Keyword name 'Search Device using search field' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Device_Manager_Tests.robot:35:5 Keyword name 'Verify Search Field in Result Table' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Device_Manager_Tests.robot:38:5 Keyword name 'Navigate to Module' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Device_Manager_Tests.robot:39:5 Keyword name 'Search Device using search field' does not follow case convention
+[W] 1004 (empty-lines-between-test-cases) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Device_Manager_Tests.robot:44:1 Invalid number of empty lines between test cases (2/1)
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Device_Manager_Tests.robot:46:5 Keyword name 'Navigate to Module' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Device_Manager_Tests.robot:47:5 Keyword name 'Search Device using search field' does not follow case convention
+[W] 1010 (too-many-trailing-blank-lines) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Device_Manager_Tests.robot:55:1 Too many blank lines at the end of file
+[I] 0913 (can-be-resource-file) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Device_Manager_Actions.robot:1:1 No tests in 'Device_Manager_Actions.robot' file, consider renaming to 'Device_Manager_Actions.resource'
+[W] 1009 (empty-line-after-section) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Device_Manager_Actions.robot:11:1 Too many empty lines after '*** Keywords ***' section header (1/0)
+[W] 1005 (empty-lines-between-keywords) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Device_Manager_Actions.robot:26:1 Invalid number of empty lines between keywords (2/1)
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Device_Manager_Actions.robot:27:1 Keyword name 'Search Device using search field' does not follow case convention
+[W] 1005 (empty-lines-between-keywords) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Device_Manager_Actions.robot:35:1 Invalid number of empty lines between keywords (2/1)
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Device_Manager_Actions.robot:36:1 Keyword name 'Verify Search Field in Result Table' does not follow case convention
+[W] 0508 (line-too-long) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Device_Manager_Actions.robot:41:1 Line is too long (200/124)
+[W] 1001 (trailing-whitespace) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Device_Manager_Actions.robot:42:8 Trailing whitespace at the end of line
+[W] 0508 (line-too-long) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Device_Manager_Actions.robot:46:1 Line is too long (205/124)
+[W] 0508 (line-too-long) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Device_Manager_Actions.robot:51:1 Line is too long (210/124)
+[W] 0508 (line-too-long) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Device_Manager_Actions.robot:56:1 Line is too long (210/124)
+[W] 1005 (empty-lines-between-keywords) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Device_Manager_Actions.robot:60:1 Invalid number of empty lines between keywords (2/1)
+[W] 1008 (bad-indent) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Device_Manager_Actions.robot:63:1 Line is over-indented
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Device_Manager_Actions.robot:63:13 Keyword name 'Wait and Click Element' does not follow case convention
+[W] 1003 (empty-lines-between-sections) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Device_Manager_Actions.robot:77:1 Invalid number of empty lines between sections (1/2)
+[I] 0913 (can-be-resource-file) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:1:1 No tests in 'Device_Page_Object.robot' file, consider renaming to 'Device_Page_Object.resource'
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:6:1 Section variable '${category_selected}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:7:1 Section variable '${row_result_table}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:8:1 Section variable '${category_result_table}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:9:1 Section variable '${store_result_table}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:10:1 Section variable '${device_name_result_table}' name should be uppercase
+[W] 0508 (line-too-long) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:10:1 Line is too long (147/124)
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:11:1 Section variable '${device_first_result_table}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:12:1 Section variable '${device_group_first_result_table}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:13:1 Section variable '${product_name_result_table}' name should be uppercase
+[W] 0508 (line-too-long) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:13:1 Line is too long (147/124)
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:14:1 Section variable '${device_group_name_result_table}' name should be uppercase
+[W] 0508 (line-too-long) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:14:1 Line is too long (147/124)
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:15:1 Section variable '${device_model_name_result_table}' name should be uppercase
+[W] 0508 (line-too-long) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:15:1 Line is too long (147/124)
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:17:1 Section variable '${label_device}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:18:1 Section variable '${search_field_dropdown}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:19:1 Section variable '${input_search_field}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:20:1 Section variable '${btn_delete}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:21:1 Section variable '${btn_move}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:22:1 Section variable '${btn_Add}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:23:1 Section variable '${btn_Settings}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:24:1 Section variable '${header_device_name}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:25:1 Section variable '${header_product_name}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:26:1 Section variable '${header_device_group_name}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:27:1 Section variable '${header_model_name}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:28:1 Section variable '${header_created}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Device_Page_Object.robot:29:1 Section variable '${header_updated}' name should be uppercase
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Product_Manager_Tests.robot:11:18 Keyword name 'Login user' does not follow case convention
+[W] 1001 (trailing-whitespace) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Product_Manager_Tests.robot:11:28 Trailing whitespace at the end of line
+[W] 1003 (empty-lines-between-sections) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Product_Manager_Tests.robot:12:1 Invalid number of empty lines between sections (1/2)
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Product_Manager_Tests.robot:15:5 Keyword name 'Navigate to Module' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Product_Manager_Tests.robot:19:5 Keyword name 'Search Product using search field' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Product_Manager_Tests.robot:21:5 Keyword name 'Verify Search Field in Result Table' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Product_Manager_Tests.robot:24:5 Keyword name 'Search Product using search field' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Product_Manager_Tests.robot:26:5 Keyword name 'Verify Search Field in Result Table' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Product_Manager_Tests.robot:29:5 Keyword name 'Search Product using search field' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Product_Manager_Tests.robot:31:5 Keyword name 'Verify Search Field in Result Table' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Product_Manager_Tests.robot:34:5 Keyword name 'Search Product using search field' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Product_Manager_Tests.robot:36:5 Keyword name 'Verify Search Field in Result Table' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Product_Manager_Tests.robot:39:5 Keyword name 'Navigate to Module' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Product_Manager_Tests.robot:40:5 Keyword name 'Search Product using search field' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Product_Manager_Tests.robot:46:5 Keyword name 'Navigate to Module' does not follow case convention
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Product_Manager_Tests.robot:47:5 Keyword name 'Search Product using search field' does not follow case convention
+[W] 1010 (too-many-trailing-blank-lines) C:\7_GOS\srph_sqe\GOS_Automation\Tests\Product_Manager_Tests.robot:56:1 Too many blank lines at the end of file
+[I] 0913 (can-be-resource-file) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Product_Manager_Actions.robot:1:1 No tests in 'Product_Manager_Actions.robot' file, consider renaming to 'Product_Manager_Actions.resource'
+[W] 1009 (empty-line-after-section) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Product_Manager_Actions.robot:11:1 Too many empty lines after '*** Keywords ***' section header (1/0)
+[W] 1005 (empty-lines-between-keywords) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Product_Manager_Actions.robot:26:1 Invalid number of empty lines between keywords (2/1)
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Product_Manager_Actions.robot:27:1 Keyword name 'Search Product using search field' does not follow case convention
+[W] 1005 (empty-lines-between-keywords) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Product_Manager_Actions.robot:35:1 Invalid number of empty lines between keywords (2/1)
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Product_Manager_Actions.robot:36:1 Keyword name 'Verify Search Field in Result Table' does not follow case convention
+[W] 0508 (line-too-long) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Product_Manager_Actions.robot:41:1 Line is too long (200/124)
+[W] 1001 (trailing-whitespace) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Product_Manager_Actions.robot:42:8 Trailing whitespace at the end of line
+[W] 0508 (line-too-long) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Product_Manager_Actions.robot:46:1 Line is too long (205/124)
+[W] 0508 (line-too-long) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Product_Manager_Actions.robot:51:1 Line is too long (210/124)
+[W] 0508 (line-too-long) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Product_Manager_Actions.robot:56:1 Line is too long (210/124)
+[W] 1005 (empty-lines-between-keywords) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Product_Manager_Actions.robot:60:1 Invalid number of empty lines between keywords (2/1)
+[W] 1008 (bad-indent) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Product_Manager_Actions.robot:63:1 Line is over-indented
+[W] 0302 (wrong-case-in-keyword-name) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Product_Manager_Actions.robot:63:13 Keyword name 'Wait and Click Element' does not follow case convention
+[W] 1005 (empty-lines-between-keywords) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Product_Manager_Actions.robot:65:1 Invalid number of empty lines between keywords (2/1)
+[W] 1003 (empty-lines-between-sections) C:\7_GOS\srph_sqe\GOS_Automation\Actions\Product_Manager_Actions.robot:77:1 Invalid number of empty lines between sections (1/2)
+[W] 0704 (ignored-data) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:1:1 Ignored data found in file
+[I] 0913 (can-be-resource-file) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:1:1 No tests in 'Product_Page_Object.robot' file, consider renaming to 'Product_Page_Object.resource'
+[W] 1009 (empty-line-after-section) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:2:1 Too many empty lines after '*** Variables ***' section header (1/0)
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:4:1 Section variable '${row_result_table}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:5:1 Section variable '${device_name_result_table}' name should be uppercase
+[W] 0508 (line-too-long) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:5:1 Line is too long (159/124)
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:6:1 Section variable '${product_name_result_table}' name should be uppercase
+[W] 0508 (line-too-long) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:6:1 Line is too long (159/124)
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:7:1 Section variable '${product_first_result_table}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:8:1 Section variable '${device_group_name_result_table}' name should be uppercase
+[W] 0508 (line-too-long) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:8:1 Line is too long (159/124)
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:9:1 Section variable '${device_model_name_result_table}' name should be uppercase
+[W] 0508 (line-too-long) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:9:1 Line is too long (159/124)
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:11:1 Section variable '${label_main}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:12:1 Section variable '${search_field_dropdown}' name should be uppercase
+[W] 0508 (line-too-long) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:12:1 Line is too long (132/124)
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:13:1 Section variable '${input_search_field}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:14:1 Section variable '${btn_Add}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:15:1 Section variable '${btn_Settings}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:16:1 Section variable '${header_device_name}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:17:1 Section variable '${header_product_name}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:18:1 Section variable '${header_device_group_name}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:19:1 Section variable '${header_model_name}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:20:1 Section variable '${header_created}' name should be uppercase
+[W] 0309 (section-variable-not-uppercase) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:21:1 Section variable '${header_updated}' name should be uppercase
+[W] 1003 (empty-lines-between-sections) C:\7_GOS\srph_sqe\GOS_Automation\PageObjects\Product_Page_Object.robot:22:1 Invalid number of empty lines between sections (1/2)
+
+Processed 6 (+3) files from which 6 (+3) files contained issues.
+
+Found 119 (+104) issues: 115 (+109) WARNINGs, 4 (-5) INFOs.
+
+Report generated by Robocop version: 5.3.0
+
+Issues by ID:
+W0309 (section-variable-not-uppercase) : 40 (+40)
+W0302 (wrong-case-in-keyword-name)     : 34 (+34)
+W0508 (line-too-long)                  : 17 (+11)
+W1005 (empty-lines-between-keywords)   : 7 (+7)
+W1003 (empty-lines-between-sections)   : 5 (+5)
+I0913 (can-be-resource-file)           : 4 (+4)
+W1009 (empty-line-after-section)       : 3 (+3)
+W1001 (trailing-whitespace)            : 3 (+3)
+W1010 (too-many-trailing-blank-lines)  : 2 (+2)
+W1008 (bad-indent)                     : 2 (+2)
+W1004 (empty-lines-between-test-cases) : 1 (+1)
+W0704 (ignored-data)                   : 1 (+1)
+I0327 (replace-set-variable-with-var)  : 0 (-9)
+
+Reported: 2024-08-14 13:26:09 +0800
+
+Scan finished in 0.088s (-0.113).

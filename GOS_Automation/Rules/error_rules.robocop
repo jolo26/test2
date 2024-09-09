@@ -1,0 +1,30 @@
+# this config file includes following rules that are suggested to be applied regarding errors:  
+--include parsing-error
+--include not-enough-whitespace-after-setting
+--include missing-keyword-name
+--include variables-import-with-args
+--include invalid-continuation-mark
+--include not-enough-whitespace-after-newline-marker
+--include invalid-argument
+--include non-existing-setting
+--include setting-not-supported
+--include not-enough-whitespace-after-variable
+--include not-enough-whitespace-after-suite-setting
+--include invalid-for-loop
+--include invalid-if
+--include return-in-test-case
+--include invalid-section-in-resource
+--include invalid-setting-in-resource
+--include unsupported-setting-in-init-file
+
+# this sets the format for displaying violations in the report
+--format [{severity}] {rule_id} ({name}) {source}:{line}:{col} {desc}
+
+# this option saves the previous result in cache directory
+--persistent
+
+# the following config shows all reports list including timestamp and comparison from previous report found in cache directory 
+--reports all,timestamp,compare_runs
+
+# this sets the name of the log
+--output error_rules_robocop.log

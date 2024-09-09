@@ -1,0 +1,2 @@
+robotframework>=6.0.2
+robotframework-pabot==2.15.0

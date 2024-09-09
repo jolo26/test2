@@ -1,0 +1,24 @@
+# this config file includes following rules that are suggested to be applied regarding duplicates:  
+--include duplicated-test-case
+--include duplicated-keyword
+--include duplicated-variable
+--include duplicated-resource
+--include duplicated-library
+--include duplicated-variables-import
+--include section-already-defined
+--include section-out-of-order
+--include duplicated-argument-name
+--include duplicated-assigned-var-name
+--include duplicated-setting
+
+# this sets the format for displaying violations in the report
+--format [{severity}] {rule_id} ({name}) {source}:{line}:{col} {desc}
+
+# this option saves the previous result in cache directory
+--persistent
+
+# the following config shows all reports list including timestamp and comparison from previous report found in cache directory 
+--reports all,timestamp,compare_runs
+
+# this sets the name of the log
+--output duplication_rules_robocop.log

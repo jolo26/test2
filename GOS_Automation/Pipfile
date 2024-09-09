@@ -1,0 +1,11 @@
+[dev-packages]
+
+[packages]
+
+[scripts]
+
+tests = "robot --listener 'allure_robotframework Tests/Package_Info_Tests.robot"
+account = "robot --listener allure_robotframework Tests/Account_Tests.robot"
+
+
+[pipenv]

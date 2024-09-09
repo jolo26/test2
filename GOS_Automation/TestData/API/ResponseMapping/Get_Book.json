@@ -1,0 +1,6 @@
+{
+    "isbn": "$.isbn",
+    "title": "$.title",
+    "subTitle": "$.subTitle",
+    "description": "$.description"
+}

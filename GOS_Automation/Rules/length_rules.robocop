@@ -1,0 +1,40 @@
+# this config file includes following rules that are suggested to be applied regarding length:
+--include too-long-keyword
+--include empty-section
+--include empty-metadata
+--include empty-documentation
+--include empty-force-tags
+--include empty-default-tags
+--include empty-variables-import
+--include empty-resource-import
+--include empty-library-import
+--include empty-setup
+--include empty-suite-setup
+--include empty-test-setup
+--include empty-teardown
+--include empty-suite-teardown
+--include empty-test-teardown
+--include empty-timeout
+--include empty-test-timeout
+--include empty-arguments
+--include empty-test-template
+--include empty-template
+--include empty-keyword-tags
+--include line-too-long
+--include too-many-arguments
+--include line-too-long
+
+# the following rule is configured and also applied. Its default configurations are overwritten by the following: 
+--configure too-long-keyword:severity_threshold:error=80
+
+# this sets the format for displaying violations in the report
+--format [{severity}] {rule_id} ({name}) {source}:{line}:{col} {desc}
+
+# this option saves the previous result in cache directory
+--persistent
+
+# the following config shows all reports list including timestamp and comparison from previous report found in cache directory 
+--reports all,timestamp,compare_runs
+
+# this sets the name of the log
+--output length_rules_robocop.log

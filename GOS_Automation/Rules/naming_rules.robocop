@@ -1,0 +1,39 @@
+# this config file includes following rules that are suggested to be applied regarding names:
+--include not-allowed-char-in-name
+--include wrong-case-in-keyword-name
+--include keyword-name-is-reserved-word
+--include underscore-in-keyword-name
+--include setting-name-not-in-title-case
+--include section-name-invalid
+--include not-capitalized-test-case-title
+--include section-variable-not-uppercase
+--include non-local-variables-should-be-uppercase
+--include else-not-upper-case
+--include keyword-name-is-empty
+--include test-case-name-is-empty
+--include empty-library-alias
+--include duplicated-library-alias
+--include possible-variable-overwriting
+--include hyphen-in-variable-name
+--include deprecated-statement
+--include not-allowed-char-in-filename
+--include deprecated-with-name
+--include deprecated-singular-header
+--include inconsistent-variable-name
+--include overwriting-reserved-variable
+--include invalid-section
+--include mixed-task-test-settings
+--include replace-set-variable-with-var
+--include replace-create-with-var
+
+# this sets the format for displaying violations in the report
+--format [{severity}] {rule_id} ({name}) {source}:{line}:{col} {desc}
+
+# this option saves the previous result in cache directory
+--persistent
+
+# the following config shows all reports list including timestamp and comparison from previous report found in cache directory 
+--reports all,timestamp,compare_runs
+
+# this sets the name of the log
+--output naming_rules_robocop.log

@@ -1,0 +1,20 @@
+# this config file includes following rules that are suggested to be applied regarding comments:  
+--include todo-in-comment
+--include missing-space-after-comment
+--include invalid-comment
+--include ignored-data
+
+# the following rule is configured and also applied. Its default configurations are overwritten by the following: 
+--configure todo-in-comment:markers:todo,refactor,remove,fix
+
+# this option saves the previous result in cache directory
+--persistent
+
+# this sets the format for displaying violations in the report
+--format [{severity}] {rule_id} ({name}) {source}:{line}:{col} {desc}
+
+# the following config shows all reports list including timestamp and comparison from previous report found in cache directory 
+--reports all,timestamp,compare_runs
+
+# this sets the name of the log
+--output comment_rules_robocop.log
